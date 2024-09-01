@@ -6,13 +6,13 @@
 
 main:
   - title: "CV"
-    url: files/CV_YuvalMehta.pdf/
-
+    url: /cv/
+    
   - title: "Portfolio"
     url: /portfolio/
 
   # - title: "Publications"
-    # url: /publications/
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -23,6 +23,7 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+    
     
   - title: "Guide"
     url: /markdown/

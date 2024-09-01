@@ -12,7 +12,7 @@ title                    : "Yuval's Homepage"
 title_separator          : "-"
 name                     : &name "Yuval Mehta"
 description              : &description "personal description"
-url                      : https://yuval728.github.io/Yuval-Mehta.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuval728.github.io/Yuval-Mehta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuval728/Yuval-Mehta.github.io"
 

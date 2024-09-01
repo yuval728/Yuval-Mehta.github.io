@@ -12,7 +12,7 @@ title                    : "Yuval's Homepage"
 title_separator          : "-"
 name                     : &name "Yuval Mehta"
 description              : &description "personal description"
-url                      : https://Yuval-Mehta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuval728.github.io/Yuval-Mehta.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuval728/Yuval-Mehta.github.io"
 
@@ -21,7 +21,7 @@ repository               : "yuval728/Yuval-Mehta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Yuval Mehta"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
